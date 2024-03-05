@@ -82,19 +82,19 @@
 
 <h3>Languages:</h3>
 <ul class="horizontal-list">
-  <li>Spanish Native</li>
-  <li>English Native</li>
-  <li>Italian Proficient</li>
+  <li>Spanish Native</li> 
+  <li>English Native</li> 
+  <li>Italian Proficient</li> 
 </ul>
 
-<h2> Business Information and Analytics Projects:</h2>
+<h2> :desktop_computer: Business Information and Analytics Projects:</h2>
 
 - <b>Library Database (AlgoExpert)</b>
   - [Database Design and .Net WPF for a Library Database](https://github.com/lucabuselli01/Library_Database.git)
 - <b>Car Dataset Analytics</b>
   - [Peripheral Analysis on Car Data](https://github.com/lucabuselli01/Car-Dataset-Analytics.git)
 
-<h2> Finance Projects :</h2>
+<h2> :bar_chart: Finance Projects :</h2>
 
 - <b>Finance Projects</b>
   - [Newmont vs Southern Copper Ratio Analysis](https://github.com/lucabuselli01/Finance-Project.git)
