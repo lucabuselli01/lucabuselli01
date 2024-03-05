@@ -101,29 +101,24 @@
 - <b>ESG Analysis on 3 Newmont, Anglo Gold, and Barrick</b>
   - [Praciting DS & Algos in Python](https://github.com/lucabuselli01/Finance-Project.git)
 
-<h2> 🤳 Connect with me:</h2>
+<h2> Currently working on... </h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<h2>On my Free Time  </h2>
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+<table border="1" style="width: 100%;">
+  <tr>
+    <th>Music</th>
+    <th>Golf</th>
+    <th>Snow</th>
+    <th>F1</th>
+  </tr>
+  <tr>
+    <td><img src="placeholder-for-music-image.jpg" alt="Music" style="width:100%;"></td>
+    <td><img src="placeholder-for-golf-image.jpg" alt="Golf" style="width:100%;"></td>
+    <td><img src="placeholder-for-snow-image.jpg" alt="Snow" style="width:100%;"></td>
+    <td><img src="placeholder-for-F1-image.jpg" alt="F1" style="width:100%;"></td>
+  </tr>
+</table>
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
