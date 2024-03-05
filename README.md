@@ -5,7 +5,7 @@
   <li>2350 S University Blvd</li>
   <li>Cell Phone Number: 720-530-3474</li>
   <li>E-Mail: lucabuselli@gmail.com</li>
-  <li>My LinkedIn</li>
+  <li>[My LinkedIn](www.linkedin.com/in/lucabuselli01)</li>
 </ul>
 <h2> Education. </h2>
 <br/><p>My educational journey is a cornerstone of my identity, profoundly shaping me into the individual I am today. Originating from Lima, Peru, I had the privilege of attending Colegio Franklin Delano Roosevelt, The American School of Lima, from 2008 to 2020. This experience endowed me with the essential tools and skills for a significant leap—to pursue higher education abroad at the Daniels College of Business in the United States. Currently in my fourth year, I am astounded by the vast knowledge and experiences I have accumulated since commencing my collegiate journey at the University of Denver (DU).</p>
@@ -14,7 +14,7 @@
 <ul> 
   <li>GPA : 3.67</li>
   <li>Multiple Dean's List awards. Recognizes students dedicated to excellence, achieving a quarterly grade point average of 3.75 or above while taking at least 15 credit hours.</li>
-  <li>One of the highest academic honors at University of Denver. Recognizes students who achieved a quarterly grade point average of 4.0 while taking a minimum of 12 credit hours.</li>
+  <li>Hornbeck Scholar, one of the highest academic honors at University of Denver. Recognizes students who achieved a quarterly grade point average of 4.0 while taking a minimum of 12 credit hours.</li>
 </ul>
 <b> Minors : Finance, Business Law, Italian </b>
 <h3> Relevant Courses: </h3>
