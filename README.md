@@ -102,7 +102,8 @@
   - [Praciting DS & Algos in Python](https://github.com/lucabuselli01/Finance-Project.git)
 
 <h2> Currently working on... </h2>
-
+<p>The project involves automating the creation of entrepreneur profiles from interview transcripts to match them with appropriate funding sources and ecosystem actors. It aims to extract key information such as business models, scalability, customer base, and funding needs using NLP and ML techniques. The process involves text extraction, information extraction, sentiment analysis, and data structuring for database integration. Customization in NLP tasks is required to identify specific information aligned with the project's goals, contributing to an academic paper on the subject.
+</p>
 <h2>On my Free Time  </h2>
 
 ![Ski](https://github.com/lucabuselli01/lucabuselli01/blob/main/Portfolio_Photos/IMG_5640.jpg)
