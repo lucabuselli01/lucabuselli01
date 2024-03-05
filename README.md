@@ -1,5 +1,5 @@
 <h1>Luca Buselli <br/><a>Student at the University of Denver</a></h1>
-<h2> Contact Me! </h2>
+<h2> Contact Me. </h2>
 <ul>
   <li>Denver, CO</li>
   <li>2350 S University Blvd</li>
@@ -7,7 +7,7 @@
   <li>E-Mail: lucabuselli@gmail.com</li>
   <li>My LinkedIn</li>
 </ul>
-<h2> Education </h2>
+<h2> Education. </h2>
 <br/><p>My educational journey is a cornerstone of my identity, profoundly shaping me into the individual I am today. Originating from Lima, Peru, I had the privilege of attending Colegio Franklin Delano Roosevelt, The American School of Lima, from 2008 to 2020. This experience endowed me with the essential tools and skills for a significant leap—to pursue higher education abroad at the Daniels College of Business in the United States. Currently in my fourth year, I am astounded by the vast knowledge and experiences I have accumulated since commencing my collegiate journey at the University of Denver (DU).</p>
 <h3> University of Denver, Daniels College of Business </h3>
 <b> Major : Business Information and Technology </b>
@@ -87,14 +87,14 @@
   <li>Italian Proficient</li>
 </ul>
 
-<h2>👨‍💻 Business Information and Analytics Projects:</h2>
+<h2> Business Information and Analytics Projects:</h2>
 
 - <b>Library Database (AlgoExpert)</b>
   - [Database Design and .Net WPF for a Library Database](https://github.com/lucabuselli01/Library_Database.git)
 - <b>Car Dataset Analytics</b>
   - [Peripheral Analysis on Car Data](https://github.com/lucabuselli01/Car-Dataset-Analytics.git)
 
-<h2>📺 Finance Projects</h2>
+<h2> Finance Projects :</h2>
 
 - <b>Finance Projects</b>
   - [Newmont vs Southern Copper Ratio Analysis](https://github.com/lucabuselli01/Finance-Project.git)
