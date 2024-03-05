@@ -105,20 +105,6 @@
 
 <h2>On my Free Time  </h2>
 
-<table border="1" style="width: 100%;">
-  <tr>
-    <th>Music</th>
-    <th>Golf</th>
-    <th>Snow</th>
-    <th>F1</th>
-  </tr>
-  <tr>
-    <td><img src="placeholder-for-music-image.jpg" alt="Music" style="width:100%;"></td>
-    <td><img src="placeholder-for-golf-image.jpg" alt="Golf" style="width:100%;"></td>
-    <td><img src="placeholder-for-snow-image.jpg" alt="Snow" style="width:100%;"></td>
-    <td><img src="placeholder-for-F1-image.jpg" alt="F1" style="width:100%;"></td>
-  </tr>
-</table>
-
-
-
+![Ski](https://github.com/lucabuselli01/lucabuselli01/blob/main/Portfolio_Photos/IMG_5640.jpg)
+![Golf](https://github.com/lucabuselli01/lucabuselli01/blob/main/Portfolio_Photos/IMG_7835.PNG)
+![Music](https://github.com/lucabuselli01/lucabuselli01/blob/main/Portfolio_Photos/IMG_6229.jpg)
