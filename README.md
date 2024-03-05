@@ -82,10 +82,9 @@
 
 <h3>Languages:</h3>
 <ul class="horizontal-list">
-  <li>Item 1</li>
-  <li>Item 2</li>
-  <li>Item 3</li>
-  <li>Item 4</li>
+  <li>Spanish Native</li>
+  <li>English Native</li>
+  <li>Italian Proficient</li>
 </ul>
 
 
