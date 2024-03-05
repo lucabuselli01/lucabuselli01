@@ -87,34 +87,19 @@
   <li>Italian Proficient</li>
 </ul>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <h2>👨‍💻 Business Information and Analytics Projects:</h2>
 
 - <b>Library Database (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Basketball Data Warehouse</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Database Design and .Net WPF for a Library Database](https://github.com/lucabuselli01/Library_Database.git)
+- <b>Car Dataset Analytics</b>
+  - [Peripheral Analysis on Car Data](https://github.com/lucabuselli01/Car-Dataset-Analytics.git)
 
 <h2>📺 Finance Projects</h2>
 
-- <b>ESG Analysis (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Newmont vs Southern Copper Ratio Analysis (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Finance Projects</b>
+  - [Newmont vs Southern Copper Ratio Analysis](https://github.com/lucabuselli01/Finance-Project.git)
+- <b>ESG Analysis on 3 Newmont, Anglo Gold, and Barrick</b>
+  - [Praciting DS & Algos in Python](https://github.com/lucabuselli01/Finance-Project.git)
 
 <h2> 🤳 Connect with me:</h2>
 
